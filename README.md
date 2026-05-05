@@ -1,37 +1,62 @@
-👋 Hey, I'm Nadia Megahed!
+## 👋 Hey, I'm Nadia Megahed!
 
-<a href='#'><img align='left' alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height='18px'/></a>
-<a href='#'><img align='left' alt="github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height='18px'/></a>
+<a href='https://www.linkedin.com/in/nadia-megahed-b3ba503b5/' target="_blank">
+  <img align='left' alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height='18px'/>
+</a>
 
 <br/>
 
-I am a passionate Front-End Developer 🌐 specializing in building modern and responsive web applications using React.js ⚛️.
-I enjoy turning ideas into real projects and continuously improving my skills by learning new technologies 💻✨.
+# 💻 Front-End Developer (React.js)  
 
-<br/> <br/> <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-🧐 More About Me:
-🎓   I study Management Information Systems (English Section)
-🌱   I’m currently improving my skills in React.js & Front-End Development
-💻   I have completed a course in Front-End Development & React.js
-👩🏻‍💻   I love building responsive and user-friendly interfaces
-💬   Ask me about HTML, CSS, JavaScript, React
-📫   Feel free to connect with me
-<br>
-🔨 Languages and Tools:
+I am a passionate Front-End Developer 🌐 who loves building modern, responsive, and user-friendly web applications.  
+I enjoy turning ideas into real projects 🚀 and continuously learning new technologies 💙  
 
-<a href="#"><img align="left" alt="HTML" height="42px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></a>
-<a href="#"><img align="left" alt="CSS" height="42px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></a>
-<a href="#"><img align="left" alt="JavaScript" height="42px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></a>
-<a href="#"><img align="left" alt="React" height="42px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"></a>
-<a href="#"><img align="left" alt="Git" height="42px" src="https://cdn-icons-png.flaticon.com/512/2111/2111288.png"></a>
-<a href="#"><img align="left" alt="Figma" height="42px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"></a>
+---
 
-<br><br><br>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350px"/>
 
-📊 Github Stats
+## 🧐 More About Me:
 
-(Add your GitHub stats link here later)
+- 🎓 MIS Student (English Section)  
+- 💻 Completed Front-End & React.js Course  
+- 🌱 Currently learning **Advanced React & Modern JS**  
+- 🎯 Goal: Become a Professional Front-End Developer  
+- 💬 Ask me about **HTML, CSS, JavaScript, React**  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/nadia-megahed-b3ba503b5/)  
 
-<br>
-🛠️ My Projects
-💡 Coming soon… (I will add my projects here)
+---
+
+## 🛠️ Tech Stack
+HTML | CSS | JavaScript | React.js | Git | GitHub | Figma  
+
+---
+
+## 📊 GitHub Stats
+
+![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+---
+
+## 🛠️ My Projects
+
+🚧 Coming Soon... (هنحطهم دلوقتي لما تبعتيهم)
+
+---
+
+## 📚 Extra
+
+- 📖 Love learning tech  
+- 🎨 Interested in UI/UX  
+- ⚡ Always improving  
+
+---
+
+⭐ Thanks for visiting my profile!
