@@ -6,10 +6,10 @@
 
 <br/>
 
-# 💻 Front-End Developer (React.js)  
+# 💻 Front-End Developer (React.js)
 
 I am a passionate Front-End Developer 🌐 who loves building modern, responsive, and user-friendly web applications.  
-I enjoy turning ideas into real projects 🚀 and continuously learning new technologies 💙  
+I enjoy turning ideas into real-world projects 🚀 and continuously improving my skills 💙  
 
 ---
 
@@ -19,42 +19,63 @@ I enjoy turning ideas into real projects 🚀 and continuously learning new tech
 
 - 🎓 MIS Student (English Section)  
 - 💻 Completed Front-End & React.js Course  
-- 🌱 Currently learning **Advanced React & Modern JS**  
+- 🌱 Currently learning Advanced React  
 - 🎯 Goal: Become a Professional Front-End Developer  
-- 💬 Ask me about **HTML, CSS, JavaScript, React**  
+- 💬 Ask me about HTML, CSS, JavaScript, React  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/nadia-megahed-b3ba503b5/)  
 
 ---
 
 ## 🛠️ Tech Stack
-HTML | CSS | JavaScript | React.js | Git | GitHub | Figma  
+HTML | CSS | JavaScript | React.js | Bootstrap | Tailwind | Git | GitHub | Figma  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiamegahed18&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiamegahed18&layout=compact)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=nadiamegahed18)
 
 ---
 
-## 🛠️ My Projects
+## 🚀 My Projects
 
-🚧 Coming Soon... (هنحطهم دلوقتي لما تبعتيهم)
+### 💡 JavaScript Projects
+- 🔗 [Bookmarker App](https://nadiamegahed18.github.io/bookmarker-js/)  
+- 🔗 [Weather App](https://nadiamegahed18.github.io/Weather-Project/)  
+- 🔗 [Random Quote Generator](https://nadiamegahed18.github.io/Random-quite/)  
+- 🔗 [Login System](https://nadiamegahed18.github.io/simple-login-project/)  
+
+---
+
+### 🛒 React Projects
+- 🔗 [E-Commerce App](https://e-commerce-seven-theta-98.vercel.app/)  
+- 🔗 [React + Bootstrap Framework](https://task-1-react-with-bootstrap.vercel.app/)  
+- 🔗 [React + Tailwind Framework](https://task-2-react-with-tailwind.vercel.app/)  
+
+---
+
+### 🎨 UI / Front-End Projects
+- 🔗 [Yummy Website](https://nadiamegahed18.github.io/Yummy-Project/)  
+- 🔗 [Bakery Website](https://nadiamegahed18.github.io/Bakery-Project/)  
+- 🔗 [Misr Travel](https://nadiamegahed18.github.io/Misr-Travel-Project1/)  
+- 🔗 [Mealify](https://nadiamegahed18.github.io/Mealify/)  
+- 🔗 [Fokir Template](https://nadiamegahed18.github.io/Fokir-Project/)  
+- 🔗 [Form Project](https://nadiamegahed18.github.io/Form/)  
 
 ---
 
 ## 📚 Extra
 
-- 📖 Love learning tech  
-- 🎨 Interested in UI/UX  
+- 📖 Love learning new tech  
+- 🎨 Interested in UI/UX Design  
 - ⚡ Always improving  
 
 ---
