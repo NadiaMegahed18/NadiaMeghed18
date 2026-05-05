@@ -29,19 +29,17 @@ I enjoy turning ideas into real-world projects 🚀 and continuously improving m
 ## 🛠️ Tech Stack
 HTML | CSS | JavaScript | React.js | Bootstrap | Tailwind | Git | GitHub | Figma  
 
----
+---## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadiaMegahed18&show_icons=true&theme=radical&hide_border=true)
 
-![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiamegahed18&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiamegahed18&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaMegahed18&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nadiamegahed18)
+![GitHub Streak](https://streak-stats.demolab.com?user=NadiaMegahed18&theme=radical&hide_border=true)
 
 ---
 
