@@ -29,17 +29,19 @@ I enjoy turning ideas into real-world projects 🚀 and continuously improving m
 ## 🛠️ Tech Stack
 HTML | CSS | JavaScript | React.js | Bootstrap | Tailwind | Git | GitHub | Figma  
 
----## 📊 GitHub Stats
+---
 
-![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadiaMegahed18&show_icons=true&theme=radical&hide_border=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaMegahed18&layout=compact&theme=radical&hide_border=true)
+![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiamegahed18&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiamegahed18&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NadiaMegahed18&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=nadiamegahed18&theme=radical&hide_border=true)
 
 ---
 
@@ -55,8 +57,8 @@ HTML | CSS | JavaScript | React.js | Bootstrap | Tailwind | Git | GitHub | Figma
 
 ### 🛒 React Projects
 - 🔗 [E-Commerce App](https://e-commerce-seven-theta-98.vercel.app/)  
-- 🔗 [React + Bootstrap Framework](https://task-1-react-with-bootstrap.vercel.app/)  
-- 🔗 [React + Tailwind Framework](https://task-2-react-with-tailwind.vercel.app/)  
+- 🔗 [React + Bootstrap](https://task-1-react-with-bootstrap.vercel.app/)  
+- 🔗 [React + Tailwind](https://task-2-react-with-tailwind.vercel.app/)  
 
 ---
 
