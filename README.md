@@ -33,15 +33,15 @@ HTML | CSS | JavaScript | React.js | Bootstrap | Tailwind | Git | GitHub | Figma
 
 ## 📊 GitHub Stats
 
-![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiamegahed18&show_icons=true&theme=radical&hide_border=true)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NadiaMegahed18&show_icons=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadiamegahed18&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NadiaMegahed18&layout=compact" />
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nadiamegahed18&theme=radical&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=NadiaMegahed18" />
 
 ---
 
